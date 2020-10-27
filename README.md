@@ -1,1 +1,1 @@
-# Video-Processing in Android with [www.fritz.ai](https://www.fritz.ai)
+# Video-Processing in Android with [Fritz AI](https://www.fritz.ai)
