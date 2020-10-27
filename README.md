@@ -1,2 +1,1 @@
-# Fritz-Image-Labelling
-Image Labeling with [Fritz AI](https://www.fritz.ai)
+# Video-Processing in Android with (https://www.fritz.ai)
